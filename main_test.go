@@ -18,7 +18,7 @@ import (
 
 // Teste do Git Actions
 
-var ID int
+var ID inteiro
 
 func SetupDasRotasDeTeste() *gin.Engine {
 	gin.SetMode(gin.ReleaseMode)
