@@ -16,7 +16,9 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-var ID int
+// Teste do Git Actions
+
+var ID inteiro
 
 func SetupDasRotasDeTeste() *gin.Engine {
 	gin.SetMode(gin.ReleaseMode)
